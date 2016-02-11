@@ -25,7 +25,7 @@ class Order extends Application {
 		$new_order->status = "a";
 		$new_order->total = 0;
 		$this->orders->add($new_order);
-		
+
         redirect('/order/display_menu/' . $order_num);
     }
 
@@ -70,8 +70,7 @@ class Order extends Application {
 
     // make a menu ordering column
     function make_column($category) {
-        $this->menu->some('category', $category);
-        return $items;
+        return $this->menu->some('category', $category);
     }
 
     // add an item to an order
