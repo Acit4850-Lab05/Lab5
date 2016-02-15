@@ -1,17 +1,15 @@
 ###############
-Fall2015 lab 04
+ACIT 4850 Lab05
 ###############
 
-This project is the starter for COMP4711 Lab 4, for the Fall 2015 session.
+This is our Lab 05 for ACIT 4850, based on a forked starter package.
 
-This webapp is broken. On purpose :) 
-Your job is to fix it, following the directions in lab 04.
 
 *******************
-Server Requirements
+Team Members
 *******************
-
-CodeIgniter 3.0
+labSquid (Patrick Voth, A00932944)
+JustinWalk (Justin Walk, )
 
 *******
 License
@@ -25,4 +23,3 @@ Resources
 *********
 
 -  `CodeIgniter <http://codeigniter.com>`_
-
