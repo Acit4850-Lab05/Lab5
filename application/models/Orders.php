@@ -51,7 +51,7 @@ class Orders extends MY_Model {
 
     // cancel an order
     function flush($num) {
-
+      
     }
 
     // validate an order
